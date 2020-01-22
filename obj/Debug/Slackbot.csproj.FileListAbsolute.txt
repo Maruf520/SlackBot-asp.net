@@ -1,0 +1,17 @@
+C:\Users\Maruf\source\repos\Slackbot\obj\Debug\Slackbot.csprojAssemblyReference.cache
+C:\Users\Maruf\source\repos\Slackbot\bin\Debug\Slackbot.exe.config
+C:\Users\Maruf\source\repos\Slackbot\bin\Debug\Slackbot.exe
+C:\Users\Maruf\source\repos\Slackbot\bin\Debug\Slackbot.pdb
+C:\Users\Maruf\source\repos\Slackbot\bin\Debug\Bazam.Http.dll
+C:\Users\Maruf\source\repos\Slackbot\bin\Debug\Castle.Core.dll
+C:\Users\Maruf\source\repos\Slackbot\bin\Debug\Castle.Windsor.dll
+C:\Users\Maruf\source\repos\Slackbot\bin\Debug\MargieBot.dll
+C:\Users\Maruf\source\repos\Slackbot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maruf\source\repos\Slackbot\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Maruf\source\repos\Slackbot\bin\Debug\Castle.Core.xml
+C:\Users\Maruf\source\repos\Slackbot\bin\Debug\Castle.Windsor.xml
+C:\Users\Maruf\source\repos\Slackbot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Maruf\source\repos\Slackbot\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Maruf\source\repos\Slackbot\obj\Debug\Slackbot.csproj.CopyComplete
+C:\Users\Maruf\source\repos\Slackbot\obj\Debug\Slackbot.exe
+C:\Users\Maruf\source\repos\Slackbot\obj\Debug\Slackbot.pdb
